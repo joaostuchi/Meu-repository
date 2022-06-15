@@ -3,9 +3,10 @@
 👨‍💻👩‍💻 Olá, eu sou João Pedro.
 Iremos entrar na Matrix.
 
-<img src="images (31).jpeg" class="matrix" alt="dois personagens">
-<css>
+<style>
 .matrix {
  border-radius: 20%;
 }
-<css\>
+<\style>
+
+<img src="images (31).jpeg" class="matrix" alt="dois personagens">
